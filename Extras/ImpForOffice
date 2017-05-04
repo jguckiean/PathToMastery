@@ -1,0 +1,47 @@
+
+#rdps for flux
+//asundhar
+10.26.131.101
+User Name : USDEV\asundhar
+Password : Portal1!
+
+//mrazak
+10.26.216.61
+USDEV\morazak
+Password : Portal1!
+
+
+//vpn credentails for deloitte
+https://aexternal.deloittenet.deloitte.com/my.policy#
+dhamb
+P@$$w0rd
+
+//flux database info
+10.25.112.22; Database=Flux; User Id=Flux_User; Password=1@/D20Y6m4;
+
+
+#test server web site flux
+https://ddisclosureanalytics.deloitte.com/flux/uploadtb
+usdev\leeldridge
+Portal1!
+
+
+#other flux info
+//tfs
+http://tfs.deloitte.com:8080/tfs/its/FluxAnalysis/FluxAnalysis%20Team/_dashboards
+//build forge
+http://buildforge.deloitte.com:8080/jas/LoginServlet;jsessionid=2285FC390DCA5246F243A1227F486B05
+//project portfolio management
+https://ppm.deloitte.com/itg/web/knta/crt/RequestDetail.jsp
+
+#gaap info
+Before accessing the TFS, you have to connect to VPN.
+ 
+1.       Open Internet Explorer in administrator mode (not sure if you have admin access). If you don’t have admin access, write to esupport (one email) requesting for access to all.
+2.       Go to URL à https://hexternal.deloittenet.deloitte.com/my.policy
+3.       Key in User Name as “asundhar” & Password as “Quanchi@123” and wait for successful VPN connectivity.
+4.       Open Chrome and go to https://symphonyvsts.visualstudio.com/GAAP%20Check%20List
+5.       Use the same user name and password for TFS access.
+6.       Navigate to Work and Code and start your exploration.
+ 
+Please let me know if you have any question.
