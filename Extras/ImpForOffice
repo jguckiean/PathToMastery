@@ -29,8 +29,12 @@ Portal1!
 #other flux info
 //tfs
 http://tfs.deloitte.com:8080/tfs/its/FluxAnalysis/FluxAnalysis%20Team/_dashboards
+dhamb
+P@$$word
 //build forge
 http://buildforge.deloitte.com:8080/jas/LoginServlet;jsessionid=2285FC390DCA5246F243A1227F486B05
+UserName : asundhar
+Password: Password1105
 //project portfolio management
 https://ppm.deloitte.com/itg/web/knta/crt/RequestDetail.jsp
 
