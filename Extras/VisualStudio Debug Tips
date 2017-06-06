@@ -1,0 +1,21 @@
+Visual Studio Debugging Tips
+ F10 for entry
+ run to cursor
+ step into specific
+ immediate window
+ debugger.IsAttached debugger
+ visualizer html,xml,json
+ debugger display attribute
+ add expression for data tip
+ make object id
+ breakpoint conditions : expression , hit count , filter(process, threads etc)
+ edit and continue after evaluating in the immediate window
+ perftip to know the time elapsed between two breaks
+ diagnostic window for cpu , memory profiling and can navigate from the perf tip
+ multiple project launch
+ lambda debugging
+ events intellitrace can tell me where the exception occured or when some event occured in the code
+ we can activate historical debugging from the diagnostic window event tab
+ if no enterprise then we can go to xception breaking by exception settings
+we can see not my codes by right click external code in call stak and choosing show ezternal code
+ show next statement
